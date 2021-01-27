@@ -13,6 +13,7 @@ Recently, I have started focusing on Frontend and it is where I'm looking for a 
 [Dev.to/carlosrafael22](https://dev.to/carlosrafael22) sharing some interesting things I learned. <br>
 
 ### 📕 Latest Blog Posts
+[One practical difference between Component syntax and Component() in React with useState()](https://dev.to/carlosrafael22/one-practical-difference-between-component-syntax-and-component-in-react-with-usestate-3pjd) <br>
 [Understanding Tagged Template Literal in JS](https://dev.to/carlosrafael22/understanding-tagged-template-literal-in-js-49p7) <br>
 [Using refs in React functional components - Series](https://dev.to/carlosrafael22/series/10683)
 
