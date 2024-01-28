@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I'm Rafael, a software engineer from Brazil. For the last 4.5 years I have been working as a FullStack developer building server with Django/Python and apps with React/React Native. Previously CTO of Moodar, a brazilian startup improving mental health for people/companies, since the end of last year I decided to make a shift in my career and look for jobs outside Brazil to fulfill my dream of living abroad in the future.
+I am not only a Frontend Developer with years of experience creating user-friendly and responsive applications using React/React Native. What makes me stand out is my passion for UX/UI and Product and creating products enjoyable for users and impactful for business, an enthusiasm that spread through every aspect of my work.
 
-Recently, I have started focusing on Frontend and it is where I'm looking for a job opportunity now. I have been studying and building some personal projects with React and Typescript to deepen my knowledge in these technologies and specialize me as a Frontend. In the beginning of January, I also started posting some articles on [Dev.to](https://dev.to/carlosrafael22) for me to share what I learned hoping it can be helpful for other developers as well.
+I see myself as a challenger, always seeking to think outside the box and bring fresh perspectives to discussions. At my core, I am a Product Engineer, driven not only by the quality of the software I develop but, more importantly, by the value it brings to users and the overall business.
 
-- 🔭 I’m currently working on [Forminho](https://github.com/CarlosRafael22/forminho) and building some small study projects.
-- 🌱 I’m currently learning more about React/Typescript/Styled-Components/Storybook/RTL and building [Won-frontend](https://github.com/CarlosRafael22/won-frontend) from classes taught by [Willian Justen](https://github.com/willianjusten). Things coming up in my studies are Next.JS, GraphQL and Strapi, all covered in the course.
-- 👯 I’m looking to collaborate on open source and that's also why I started [Forminho](https://github.com/CarlosRafael22/forminho). Hopefully, in the future, it can help developers to make simple forms more easily.
+With this mindset, in my last position as a Frontend Engineer, I not only delivered various features to enhance the experience of different platforms but also took a proactive approach to solving users' problems. Collaborating closely with stakeholders, I actively sought their input and feedback, ensuring that the features delivered were aligned with their needs. Beyond that, I led user research initiatives, uncovering main pain points of our users, which served as a foundation for many future improvements.
+
+In my current role, my passion for the intersection of Tech, Product, and UX/UI is a driving force compelling me to promote better collaboration and enhanced outcomes. On the tech front, I strive to encourage effective communication and alignment among colleagues and focus on producing great quality code with clean principles while emphasizing testing and documentation for shared knowledge. In the sphere of Product and UX/UI, I actively contribute by introducing diverse perspectives and raising thought-provoking questions, igniting discussions that could pave the way for the creation of great products.
+
+My enthusiasm extends beyond coding; it's about crafting solutions that seamlessly integrate technology, product excellence, and user-centric design.
 
 ### You can find me on
 [Linkedin](https://www.linkedin.com/in/carlos-rafael-leit%C3%A3o-a71672110/) to see my experiences. <br>
